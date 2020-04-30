@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raye/code/backup/cmake/t1/main.cpp
+print.h
+/home/raye/code/backup/cmake/t1/print.h
+
+/home/raye/code/backup/cmake/t1/print.cpp
+iostream
+-
+print.h
+/home/raye/code/backup/cmake/t1/print.h
+
+/home/raye/code/backup/cmake/t1/print.h
+

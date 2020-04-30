@@ -1,0 +1,4 @@
+/tem/t2/usr/share/doc/cmake/t2/COPYRIGHT
+/tem/t2/usr/share/doc/cmake/t2/README
+/tem/t2/usr/bin/runhello.sh
+/tem/t2/usr/share/doc/cmake/t2/hello.txt
